@@ -7,12 +7,11 @@ Research in several domains, such as engineering, sciences, and other fields, de
 
 The goal of this work is to identity and evaluate factors that determine the adoption or non-adoption of research software and investigate their level of importance, as well as the challenges involved to promote adoption of such software. For this, we used quantitative and qualitative methods of research to ensure the quality.  Additionally, we developed scripts in Python to conduted the statiscal analysis and to provide the evidences. 
 
-In the first phase, 
-
+In the first phase, we identify and understand the factors. We conducted an interview among twenty Brazilian academic research experts. An analysis of the collected data was conducted according to the Grounded Theory aiming to identify factors exposed by the experts. We identified sixteen factors divided into two categories among the answers of the experts, eight non-success factors, and five challenges.
 
 In the second phase, we conducted a survey with 173 Brazilian academic research to collect information about the level of importance of the factors of adoption or non-adoption, and the challenges to achieve the adoption. An analysis of the collected data was conducted according to the statistical analyses to explore data and generate results.
 
-To improve understanding, we adopted visualizations to represent the strategies flow, the citation matrix, citation graph, and the steps to find papers through backward and forward snowballing. 
+To improve understanding, we adopted visualizations and tests to represent the statistical analysis.
 
 This work is part of Erica Mourao master thesis.
 
