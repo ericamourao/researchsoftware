@@ -17,7 +17,7 @@ This work is part of Erica Mourao doctoral thesis.
 
 Empirical Strategy: Survey
 -----------
-| Statistical Analysis of Adoption and Non-Adoption |
+| Statistical Analysis of Adoption |
 |    :---:    |  
 | [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
 | [Graphics of Adoption and Non-Adoption](https://github.com/ericamourao/researchsoftware/blob/main/GraphsAdoptionNonAdoption.md) 
