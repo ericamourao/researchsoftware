@@ -15,10 +15,9 @@ To improve understanding, we adopted visualizations of data collected, descripti
 
 This work is part of Erica Mourao master thesis.
 
-Empirical Strategies
+Empirical Strategy: Survey
 -----------
-
-| Survey | 
+| Statistical Analyses |
 |    :---:    |  
 | [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
 | [Graphics of Adoption and Non-Adoption](https://) 
