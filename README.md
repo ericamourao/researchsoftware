@@ -1,4 +1,4 @@
-Guidelines to Adoption the Research Software
+Adoption of Research Software
 =================
 
 Copyright (c) 2022 Universidade Federal Fluminense (UFF).
