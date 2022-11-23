@@ -20,7 +20,7 @@ Empirical Strategies
 
 | Survey | 
 |    :---:    |  
-| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs) 
+| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
 | [Graphics of Adoption and Non-Adoption](https://) 
 | [Cronbach Alpha, Chi Square Test and Spearman Correlation](https://) | [Graphs](https://)
 | [Kolmogorov-Smirnov and Shapiro-Wilk Normality Tests](https://) | [Graphs](https://)
