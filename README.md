@@ -20,7 +20,10 @@ Empirical Strategies
 
 | Interview | Survey | 
 |   :---:      |     :---:    |  
-| [Interview](https://zenodo.org/record/7267956#.Y35XfffMKUk) | [Graphs](https://) | [Survey - Factors of SE](https://)
+| [Interview](https://zenodo.org/record/7267956#.Y35XfffMKUk) | [Graphs](https://) 
+| []() | [Graphics of Adoption and Non-Adoption](https://) 
+| []() | [Cronbach Alpha, Chi Square Test and Spearman Correlation](https://) | [Graphs](https://)
+| []() | [Kolmogorov-Smirnov and Shapiro-Wilk Normality Tests](https://) | [Graphs](https://)
 | []() | [Independent t tests](https://) | [Graphs](https://)
 | [](https://) | [Factor Analysis](https://github.com/gems-uff/hybrid-strategies/blob/master/experiments/experiment_3/notebooks/2_CitationMatrix.ipynb)
 
