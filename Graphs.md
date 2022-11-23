@@ -11,4 +11,4 @@ Graphics
 
 [5_Graph Years of Experience versus Years of Use](https://github.com/ericamourao/researchsoftware/blob/main/survey/adoption/notebooks/05_Graph_Years_of_Experience_versus_Years_of_Use.ipynb)
 
-[6_Graph Level of Education versus Years of Use](https://github.com/ericamourao/researchsoftware/blob/main/survey/adoption/notebooks/6_Graph_Level_of_Education_versus_Years_of_Use.ipynb)
+[6_Graph Level of Education versus Years of Use](https://github.com/ericamourao/researchsoftware/blob/main/survey/adoption/notebooks/06_Graph_Level_of_Education_versus_Years_of_Use.ipynb)
