@@ -3,21 +3,20 @@ Factors that Detemine the Adoption or Non-Adoption of Research Software
 
 Copyright (c) 2022 Universidade Federal Fluminense (UFF).
 
-A hybrid search strategy is an approach that combines database search and snowballing to conduct a Systematic Literature Review (SLR) in Software Engineering.
+Research in several domains, such as engineering, sciences, and other fields, depends usually on software developed by academic researchers. Most of them use and develop research software daily. The research software development life cycle, method, workforce, and incentives differ from traditional software. Hence, the time of development, use of practices, disclosure and resources are different in research software. Although some research software is adopted by the users and developers, others are not.
 
-The goal of this work is to propose and evaluate hybrid search strategies combining searching in several databases or in a specific digital library with parallel or sequential backward and forward snowballing. 
+The goal of this work is to identity and evaluate factors that determine the adoption or non-adoption of research software and investigate their level of importance, as well as the challenges involved to promote adoption of such software. For this, we used quantitative and qualitative methods of research to ensure the quality.  Additionally, we developed scripts in Python to conduted the statiscal analysis and to provide the evidences. 
 
-The proposed hybrid search strategies were applied to three previously published SLRs that adopted database searches and snowballing. 
-For this, we used the [Snowballing Tool](https://github.com/JoaoFelipe/snowballing) developed by Joao Felipe Pimentel in Python. Additionally, we developed scripts to simulate the proposed hybrid search strategies. 
+In the first phase, 
 
-We evaluated whether the strategys are able to retrieve the selected papers with lower effort in terms of the number of analyzed papers 
-(Precision), whether they are able to retrieve all papers that were selected in the published SLR (Recall) and we used the harmonic mean between Precision and Recall (F-measure) to analyses the combined results.
+
+In the second phase, we conducted a survey with 173 Brazilian academic research to collect information about the level of importance of the factors of adoption or non-adoption, and the challenges to achieve the adoption. An analysis of the collected data was conducted according to the statistical analyses to explore data and generate results.
 
 To improve understanding, we adopted visualizations to represent the strategies flow, the citation matrix, citation graph, and the steps to find papers through backward and forward snowballing. 
 
 This work is part of Erica Mourao master thesis.
 
-Experiments
+Empirical Strategies
 -----------
 
 | Interview | Survey | 
