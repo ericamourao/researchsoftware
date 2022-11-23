@@ -1,4 +1,4 @@
-Factors that Determine the Adoption of Research Software
+Guidelines to Adoption the Research Software
 =================
 
 Copyright (c) 2022 Universidade Federal Fluminense (UFF).
