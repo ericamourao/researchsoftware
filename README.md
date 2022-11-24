@@ -43,6 +43,7 @@ The main team is composed by researchers from Universidade Federal Fluminense (U
 
 Collaborators:
 
+- Ana Paula Barbosa Sobral (UFF, Brazil)
 - Marcos Kalinowski (PUC-Rio, Brazil)
 
 Included/Used Software
