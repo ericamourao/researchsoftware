@@ -30,7 +30,7 @@ Empirical Strategy: Survey related to technical, organizational and people facto
 -----------
 | Statistical Analysis of Adoption |
 |    :---:    |  
-| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
+| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs_Developers.md) 
 
 
 This work is part of Erica Mourao doctoral thesis.
