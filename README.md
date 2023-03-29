@@ -13,9 +13,7 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 
 To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
 
-This work is part of Erica Mourao doctoral thesis.
-
-Empirical Strategy: Survey
+Empirical Strategy: Survey related to software usage, disclosure and quality factors
 -----------
 | Statistical Analysis of Adoption |
 |    :---:    |  
@@ -25,6 +23,17 @@ Empirical Strategy: Survey
 | [Kolmogorov-Smirnov and Shapiro-Wilk Normality Tests](https://github.com/ericamourao/researchsoftware/blob/main/KoSmirnovShWilkTests.md) 
 | [Independent t tests](https://github.com/ericamourao/researchsoftware/blob/main/IndependenttTest.md) 
 | [Factor Analysis](https://github.com/ericamourao/researchsoftware/blob/main/FactorAnalysis.md)
+
+Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance of adoption of research software related to technical, organizational and people factors in the research software development.
+
+Empirical Strategy: Survey related to technical, organizational and people factors
+-----------
+| Statistical Analysis of Adoption |
+|    :---:    |  
+| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
+
+
+This work is part of Erica Mourao doctoral thesis.
 
 
 Publications
