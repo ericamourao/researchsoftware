@@ -1,4 +1,4 @@
-Factors of Adoption of Research Software
+Factors of success that determine the adoption of research software
 =================
 
 Copyright (c) 2022 Universidade Federal Fluminense (UFF).
@@ -13,9 +13,9 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 
 To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
 
-Empirical Strategy: Survey related to software usage and disclosure, and software quality factors
+Survey related to software usage, disclosure, and quality factors
 -----------
-| Statistical Analysis of Adoption |
+| Analysis of Adoption |
 |    :---:    |  
 | [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
 | [Graphics of Adoption and Non-Adoption](https://github.com/ericamourao/researchsoftware/blob/main/GraphsAdoptionNonAdoption.md) 
@@ -24,9 +24,9 @@ Empirical Strategy: Survey related to software usage and disclosure, and softwar
 | [Independent t tests](https://github.com/ericamourao/researchsoftware/blob/main/IndependenttTest.md) 
 | [Factor Analysis](https://github.com/ericamourao/researchsoftware/blob/main/FactorAnalysis.md)
 
-Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance of adoption of research software related to technical, organizational and people factors in the research software development.
+Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
-Empirical Strategy: Survey related to technical, organizational and people factors
+Survey related to technical, organizational and people factors
 -----------
 | Analysis of Adoption |
 |    :---:    |  
