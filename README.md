@@ -15,15 +15,12 @@ To improve understanding, we adopted visualizations of the data collected, descr
 
 Adoption and Non-Adoption Factors
 --
-
-Data Analysis:
- -- [Survey related to software usage and disclosure factors, software quality factors and non-adoption factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
+-- [Survey related to software usage and disclosure factors, software quality factors and non-adoption factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
 
 Technical, Organizational and People Factors
 --
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
-Data Analysis:
 -- [Survey related to technical, organizational and people factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
 
 
