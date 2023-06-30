@@ -11,15 +11,12 @@ In the first phase of this work, we identify and understand identify and underst
 
 Then, in the second phase, we conducted a survey with 173 Brazilian academic researchers to investigate the level of importance of the factors identified in the first phase and understand the adoption, non-adoption, and challenges to achieving the adoption of research software. An analysis of the collected data was conducted according to the statistical analyses to explore data and generate results. To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis. 
 
-Adoption and Non-Adoption Factors
---
--- [Survey related to software usage and disclosure factors, software quality factors and non-adoption factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
+-- [Survey related to Adoption](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
 
 
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
-Technical, Organizational and People Factors
---
+
 -- [Survey related to technical, organizational and people factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
 
 This work is part of Erica Mourao doctoral thesis.
