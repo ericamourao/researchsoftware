@@ -1,4 +1,4 @@
-Survey related to software usage, disclosure, and quality factors - user and/or developer
+Survey related to Adoption (Software Usage and Disclosure Factors and Software Quality Factors) and Non-Adoption - user and/or developer
 -----------
 | Analysis of Adoption |
 |    :---:    |  
