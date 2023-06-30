@@ -3,27 +3,24 @@ Factors of success that determine the adoption of research software
 
 Copyright (c) 2022 Universidade Federal Fluminense (UFF).
 
-Research in several domains, such as engineering, sciences, and other fields, usually depends on software primarily developed within academia by academic researchers. Most of them use and develop research software daily and the research software development life cycle, method, workforce, and incentives differ from traditional software. Hence, research software's time of development, use of practices, disclosure, and resources are different. According to US Research Software Sustainability Institute (USSRI) exists three primary classes of concern that are challenges related to functioning of the individual and team, such as training and education, functioning of the research software, such as supporting sustainability of the software, and functioning of the research field itself, such as growing communities around research software. Therefore, there are factors that determine the adoption of research software, and others that determine the non-adoption, which often leads to waste of time, cost, investiment of organizations and desmotivation in career paths.
+Research in several domains, such as engineering, sciences, and other fields, usually depends on software primarily developed within academia by academic researchers. Most of them use and develop research software daily, and the research software development life cycle, method, workforce, and incentives differ from traditional software. Hence, research software's time of development, use of practices, disclosure, and resources are different. According to US Research Software Sustainability Institute (USSRI) exists, three primary classes of concern that are challenges related to the functioning of the individual and team, such as training and education; functioning of the research software, such as supporting the sustainability of the software, and functioning of the research field itself, such as growing communities around research software. Therefore, some factors determine the adoption of research software, and others determine the non-adoption, which often leads to waste of time, cost, investment of organizations, and demotivation in career paths.
 
-The goal of this work is to identify and evaluate success factors that determine the adoption of research software and investigate their level of importance, as well as the factors that determine the non-adoption and challenges involved in promoting the adoption of such software. We used quantitative and qualitative research methods to ensure and construct validity in two phases of the research. Additionally, we analyzed the data initially using the Statistical Package for Social Science (IBM SPSS for Windows, Version 28). However to provide the evidence and guarantee the reproducibility of this work, we developed scripts in Python to conduted the statistical analysis in all data.
+The goal of this work is to identify and evaluate success factors that determine the adoption of research software and investigate their level of importance, as well as the factors that determine the non-adoption and challenges involved in promoting the adoption of such software. We used quantitative and qualitative research methods to ensure and construct validity in two phases of the research. Additionally, we analyzed the data initially using the Statistical Package for Social Science (IBM SPSS for Windows, Version 28). However, to provide evidence and guarantee the reproducibility of this work, we developed scripts in Python to conduct the statistical analysis of all data.
 
-In the first phase of this work, we identify and understand the factors that determine the adoption, the non-adoption and the challenges to achieve the sucess of adoption. We conducted an interview among twenty Brazilian academic research. An analysis of the collected data was conducted according to the Grounded Theory aiming to identify factors exposed by the experts. We identified sixteen factors divided into two categories: software usage and disclosure and software quality among the answers of the experts, eight non-success factors, and five challenges.
+In the first phase of this work, we identify and understand identify and understand the factors that determine successful research software, as well as investigate the factors of non-success and challenges involved in research software to become successful. We conducted an interview among twenty Brazilian academic researchers. An analysis of the collected data was conducted according to the Grounded Theory, aiming to identify factors exposed by the experts. We identified sixteen factors divided into two categories: software usage and disclosure and software quality among the answers of the experts, eight non-success factors, and five challenges. This study was published in the International Conference on Information Technology & Systems (ICITS'23).
 
-Then, in the second phase, we conducted a survey with 173 Brazilian academic researchers to collect information about the level of importance of the factors of adoption or non-adoption and the challenges to achieve the adoption. An analysis of the collected data was conducted according to the statistical analyses to explore data and generate results.
-
-To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
+Then, in the second phase, we conducted a survey with 173 Brazilian academic researchers to investigate the level of importance of the factors identified in the first phase and understand the adoption, non-adoption, and challenges to achieving the adoption of research software. An analysis of the collected data was conducted according to the statistical analyses to explore data and generate results. To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis. 
 
 Adoption and Non-Adoption Factors
 --
 -- [Survey related to software usage and disclosure factors, software quality factors and non-adoption factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
 
-Technical, Organizational and People Factors
---
+
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
+Technical, Organizational and People Factors
+--
 -- [Survey related to technical, organizational and people factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
-
-
 
 This work is part of Erica Mourao doctoral thesis.
 
