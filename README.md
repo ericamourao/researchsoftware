@@ -13,11 +13,15 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 
 To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
 
- -- [Survey related to software usage, disclosure, and quality factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
+Data Analysis of Adoption and Non-Adoption Factors
+--
+ -- [Survey related to software usage and disclosure factors, software quality factors and non-adoption factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
 
 
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
+Data Analysis of Technical, Organizational and People Factors
+--
 -- [Survey related to technical, organizational and people factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
 
 
