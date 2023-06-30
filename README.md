@@ -14,17 +14,7 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
 
 [Survey related to software usage, disclosure, and quality factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
-
-Survey related to software usage, disclosure, and quality factors
 -----------
-| Analysis of Adoption |
-|    :---:    |  
-| [Graphs](https://github.com/ericamourao/researchsoftware/blob/main/Graphs.md) 
-| [Graphics of Adoption and Non-Adoption](https://github.com/ericamourao/researchsoftware/blob/main/GraphsAdoptionNonAdoption.md) 
-| [Cronbach Alpha, Chi Square Test and Spearman Correlation](https://github.com/ericamourao/researchsoftware/blob/main/CronbachChiSquareCorrelation.md) 
-| [Kolmogorov-Smirnov and Shapiro-Wilk Normality Tests](https://github.com/ericamourao/researchsoftware/blob/main/KoSmirnovShWilkTests.md) 
-| [Independent t tests](https://github.com/ericamourao/researchsoftware/blob/main/IndependenttTest.md) 
-| [Factor Analysis](https://github.com/ericamourao/researchsoftware/blob/main/FactorAnalysis.md)
 
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success and adoption of research software.
 
