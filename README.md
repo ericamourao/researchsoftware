@@ -15,7 +15,7 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 
 Another contribution of this work is a research conducted with 30 Brazilian academic researchers developers. We conducted a survey to collet information about the level of importance related to technical, organizational and people factors in the research software development that determine the success project and adoption of research software.
 
--- [Survey 02 - Data analyses - Perceptions by developers](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
+-- [Survey 02 - Data analyses - Technical, Organizational and People Factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_developer.md)
 
 This work is part of Erica Mourao doctoral thesis.
 
