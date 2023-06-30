@@ -13,7 +13,7 @@ Then, in the second phase, we conducted a survey with 173 Brazilian academic res
 
 To improve understanding, we adopted visualizations of the data collected, descriptive statistics, and tests to represent the statistical analysis.
 
-[Survey related to software usage, disclosure, and quality factors] (https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
+[Survey related to software usage, disclosure, and quality factors](https://github.com/ericamourao/researchsoftware/blob/main/survey_user.md)
 
 Survey related to software usage, disclosure, and quality factors
 -----------
